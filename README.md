@@ -1,4 +1,5 @@
 ## Adafruit TSL2591 Breakout PCB
+<a href="http://www.adafruit.com/products/1980"><img src="assets/1980.jpg?raw=true" width="500px"><br/>
 <a href="http://www.adafruit.com/products/1980"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
